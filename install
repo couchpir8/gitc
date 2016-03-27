@@ -1,0 +1,1 @@
+sudo su && chmod +x gitc && cp -r gitc /usr/local/bin/
